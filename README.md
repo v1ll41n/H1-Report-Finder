@@ -2,6 +2,8 @@
 
 A burpsuite extension that helps security researchers find public security reports published on Hackerone corresponding to the selected host/url.
 
+![](images/1.png)	![](images/1.png)
+
 ## Installation
 
   - Download [Jython](https://www.jython.org/download)
