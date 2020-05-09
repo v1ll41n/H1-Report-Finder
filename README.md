@@ -2,7 +2,7 @@
 
 A burpsuite extension that helps security researchers find public security reports published on Hackerone corresponding to the selected host/url.
 
-![](images/1.png =200x200)	![](images/2.png =200x200)
+<img src="images/1.png" width="200" height="200"/>	<img src="images/2.png" width="200" height="200"/>
 
 ## Installation
 
