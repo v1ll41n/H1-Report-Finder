@@ -2,13 +2,14 @@
 
 A burpsuite extension that helps security researchers find public security reports published on Hackerone corresponding to the selected host/url.
 
-<img src="images/1.png" width="300" height="300"/>&emsp;&emsp;&emsp;&emsp;<img src="images/2.png" width="300" height="300"/>
+<img src="images/1.png" width="300" height="300"/>
+<img src="images/2.png" width="400" height="200"/>
 
 ## Installation
 
   - Download [Jython](https://www.jython.org/download)
   - Add Jython binary path to Burp
-  - Install the required python packcages
+  - Install the required python packages
      ```sh
      cd jython/bin
      pip install -r requirements.txt
